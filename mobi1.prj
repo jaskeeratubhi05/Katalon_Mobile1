@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description></description>
+   <name>mobi1</name>
+   <tag></tag>
+   <UUID>c75ecc39-124b-4c8c-bb61-45a016145f73</UUID>
+   <migratedVersion>5.4.0</migratedVersion>
+   <pageLoadTimeout>30</pageLoadTimeout>
+</Project>
